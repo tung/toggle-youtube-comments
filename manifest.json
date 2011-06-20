@@ -1,0 +1,10 @@
+{
+   "content_scripts": [ {
+      "css": [ "style.css" ],
+      "js": [ "toggle.js" ],
+      "matches": [ "http://www.youtube.com/watch*" ]
+   } ],
+   "description": "Show or hide YouTube comments with the click of a button.",
+   "name": "Toggle Youtube Comments",
+   "version": "1.0"
+}
