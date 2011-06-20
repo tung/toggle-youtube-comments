@@ -6,5 +6,6 @@
    } ],
    "description": "Show or hide YouTube comments with the click of a button.",
    "name": "Toggle Youtube Comments",
-   "version": "1.0"
+   "version": "1.0",
+   "update_url": "https://raw.github.com/tung/toggle-youtube-comments/master/update.xml"
 }
